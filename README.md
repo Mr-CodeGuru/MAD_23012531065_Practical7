@@ -23,7 +23,7 @@ To Generate JSON Data, Refer: https://app.json-generator.com/
 
 | JSON Generator `CODE` | JSON Generated `JSON` | In App Syncing |
 |---|---|---|
-| <img width="592" height="750" alt="Screenshot 2025-11-15 at 9 18 07 PM" src="https://github.com/user-attachments/assets/71eee898-d519-4584-8561-eebd0fed7131" /> | <img width="592" height="750" alt="Screenshot 2025-11-15 at 9 18 52 PM" src="https://github.com/user-attachments/assets/4d4af0cc-d0dc-46bd-b7d8-9e847117e7cb" /> | <img width="592" height="750" alt="Screenshot_20251115_211554" src="https://github.com/user-attachments/assets/dd50f72d-386c-4511-bbf9-e6b17eb654a7" /> |
+| <img width="592" height="750" alt="Screenshot 2025-11-15 at 9 18 07 PM" src="https://github.com/user-attachments/assets/71eee898-d519-4584-8561-eebd0fed7131" /> | <img width="592" height="750" alt="Screenshot 2025-11-15 at 9 18 52 PM" src="https://github.com/user-attachments/assets/4d4af0cc-d0dc-46bd-b7d8-9e847117e7cb" /> | <img width="1280" height="2856" alt="Screenshot_20251115_220001" src="https://github.com/user-attachments/assets/894cc809-c8b4-49ea-a4c1-306cad098001" /> |
 
 
 JSON : https://api.json-generator.com/templates/kvHxFgDYej7S/data <br>
